@@ -1,0 +1,4 @@
+VK_APP_ID = 
+VK_EMAIL = ''
+VK_PASSWORD = ''
+VK_GROUP_ID = 
